@@ -8,3 +8,4 @@ Using NHANES dataset to train a model to predict heart disease, accuracy 0.865, 
   This script cleans the data, build the models and compare them
 4. App & Call_model
   Make a GUI application based on the model built from step 3
+# This work is completed by mzheng-cool and TimJheng
